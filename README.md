@@ -24,11 +24,12 @@ Clone the repository:
 git clone https://github.com/yourusername/monsterui.git
 cd monsterui
 
+```
+
 ---
 
 ### 🛠️ Adding Dependencies
 
-```bash
 uv init
 uv add monsterui python-fasthtml
 copy content from one of the files to 'main.py'
