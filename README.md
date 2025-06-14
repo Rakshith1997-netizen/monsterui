@@ -30,8 +30,11 @@ cd monsterui
 
 ### 🛠️ Adding Dependencies
 
+```bash
 uv init
 uv add monsterui python-fasthtml
+```
+
 copy content from one of the files to 'main.py'
 uv run main.py
 
@@ -39,6 +42,6 @@ uv run main.py
 
 ## ✨ Credits
 
-- Project inspired and guided by tutorials from **NeuralNine** (YouTube).
+- Project inspired and guided by tutorials from **NeuralNine** ([YouTube](https://www.youtube.com/feed/subscriptions/UC8wZnXYK_CGKlBcZp-GxYPA)).
 
 ---
