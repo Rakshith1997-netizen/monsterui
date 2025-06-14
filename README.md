@@ -36,8 +36,11 @@ uv add monsterui python-fasthtml
 ```
 
 copy content from one of the files to 'main.py'
-uv run main.py
 
+```bash
+uv run main.py
+```
+Run the main.py file
 ---
 
 ## ✨ Credits
