@@ -40,7 +40,7 @@ copy content from one of the files to 'main.py'
 ```bash
 uv run main.py
 ```
-Run the main.py file
+
 ---
 
 ## ✨ Credits
